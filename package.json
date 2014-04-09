@@ -1,0 +1,22 @@
+{
+  "name": "volary",
+  "version": "0.0.1",
+  "licence": "APLv2",
+  "description": "Manage Multiple Sets of Bower Dependencies",
+  "keywords": [
+    "bower",
+    "testing"
+  ],
+  "author": "James A. Rosen <james.a.rosen@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jamesarosen/volary.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "bower": "*"
+  }
+}
