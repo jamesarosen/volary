@@ -1,2 +1,4 @@
 test:
-	@echo "OK"
+	@node_modules/mocha/bin/mocha
+
+.PHONY: test

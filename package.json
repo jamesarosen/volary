@@ -18,5 +18,8 @@
   },
   "dependencies": {
     "bower": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
   }
 }
